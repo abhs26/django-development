@@ -1,2 +1,0 @@
-# django-development
-# django-development
